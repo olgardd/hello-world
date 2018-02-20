@@ -1,2 +1,4 @@
 # hello-world
-pirmas programa ar kazkas panasaus
+pirma programa ar kazkas panasaus
+
+istaisyta gramatine klaida
