@@ -1,4 +1,4 @@
 # hello-world
 pirma programa ar kazkas panasaus
 
-istaisyta gramatine klaida
+istaisyta gramatine klaida turimame tekste
